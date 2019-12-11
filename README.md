@@ -1,5 +1,5 @@
 # OS
-A glorious hardware architection simulation with awkward OS implemented on it.
+A glorious hardware architection simulation with an awkward OS service implemented on it.
 
 Windows: gcc -g *.c -lm -std=gnu11 -Wall -o zzz
 
